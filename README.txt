@@ -9,6 +9,7 @@ Some instructions:
 	- models.ipynb is file for saving our models versions. Now it contains
 		some models from homework tasks and their output.
 	- useful notebooks is folder with notebooks from Yandex lyceum
+	- output pictures is a folder to save model outputs
 
 Write your code in google colaboratory or local and save it in this repository using git.
 
